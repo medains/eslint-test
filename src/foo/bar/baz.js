@@ -1,0 +1,1 @@
+var badjs = 0;
